@@ -12,7 +12,7 @@ Subimited challanges till 07.11.2020:
 6. [BEGINNER CHALLENGE] Run a Kusama or Polkadot node and add it to Telemetry
    https://github.com/nocmar/Run-KusamaNode-For24h/blob/main/README.md
 7. [ECOSYSTEM CHALLENGE] Using Remix and MetaMask on Moonbeam
-    !!!
+    PR: 0x1A5dbb68b657D340cd14f280535FbE0C2b41C529
 8. [INTERMEDIATE CHALLENGE] FRAME Identity: Set an identity on a local --dev chain
     https://github.com/nocmar/polkahackaton/blob/main/LocalIdentityOnDev-showSubstrateLogo.png
 9. [INTERMEDIATE CHALLENGE] Forkless Upgrades
@@ -36,3 +36,4 @@ Subimited challanges till 07.11.2020:
 18. [ADVANCED CHALLENGE] REST APIs - Read an account's pending payouts
     https://github.com/nocmar/Read-An-Account-s-Pending-Payouts
 19. [BEGINNER CHALLENGE] Run A Private Substrate Network
+   https://github.com/nocmar/polkahackaton/blob/main/PrivateNetwork.png
